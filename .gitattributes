@@ -1,0 +1,4 @@
+Bridge filter=lfs diff=lfs merge=lfs -text
+Genomic filter=lfs diff=lfs merge=lfs -text
+ReadMe.md filter=lfs diff=lfs merge=lfs -text
+Transcriptomic filter=lfs diff=lfs merge=lfs -text
