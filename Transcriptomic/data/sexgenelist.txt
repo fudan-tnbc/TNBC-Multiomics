@@ -1,0 +1,9 @@
+EnsemblID	GeneSymbol	GeneFullName	EntrezID	SexSpecific
+ENSG00000129824	RPS4Y1	ribosomal protein S4 Y-linked 1	6192	Male
+ENSG00000198692	EIF1AY	eukaryotic translation initiation factor 1A Y-linked	9086	Male
+ENSG00000131002	TXLNGY	taxilin gamma pseudogene, Y-linked	246126	Male
+ENSG00000012817	KDM5D	lysine demethylase 5D	8284	Male
+ENSG00000067048	DDX3Y	DEAD-box helicase 3 Y-linked	8653	Male
+ENSG00000229807	XIST	X inactive specific transcript	7503	Female
+ENSG00000270641	TSIX	TSIX transcript, XIST antisense RNA	9383	Female
+
